@@ -43,3 +43,6 @@ nul
 *.mp4
 *.mov
 *.avi
+
+# Claude Code settings
+.claude/settings.local.json
